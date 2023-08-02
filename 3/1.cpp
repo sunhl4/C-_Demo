@@ -3,7 +3,6 @@
 #include <climits>
 
 using namespace std;
-int abc
 
 int main(void)
 {
