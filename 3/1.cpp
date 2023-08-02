@@ -6,6 +6,7 @@ using namespace std;
 
 int main(void)
 {
+    int abc
     int n = 3; //int (3); int n(3); int n = {3};
     int n_int = INT_MAX;
     short n_short = SHRT_MAX;
