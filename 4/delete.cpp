@@ -21,8 +21,9 @@ char * getname()
     cout << "Enter last name: ";
     cin >> temp;
     char * pn = new char[strlen(temp) + 1];
-    strcpy(pn, temp);
     
+    strcpy(pn, temp);
+
     return pn;
 
 }
