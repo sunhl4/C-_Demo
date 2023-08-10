@@ -20,8 +20,9 @@ char * getname()
     char temp[80];
     cout << "Enter last name: ";
     cin >> temp;
-    char * pn = new char[strlen(temp) + 1];
     
+    char * pn = new char[strlen(temp) + 1];
+
     strcpy(pn, temp);
 
     return pn;
