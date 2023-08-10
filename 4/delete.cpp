@@ -22,6 +22,7 @@ char * getname()
     cin >> temp;
     char * pn = new char[strlen(temp) + 1];
     strcpy(pn, temp);
+    
     return pn;
 
 }
