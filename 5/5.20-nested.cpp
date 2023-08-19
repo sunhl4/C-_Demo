@@ -5,6 +5,7 @@ int main()
 {
     using namespace std;
     const char * cities[Cities] = 
+    
     {
         "Gribble City",
         "Gribbletown",
