@@ -26,5 +26,6 @@ int main() {
 	cout << "mian中的 a = " << a << endl;
 	cout << "mian中的 b = " << b << endl;
 	system("pause");
+	
 	return 0;
 }
