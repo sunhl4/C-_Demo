@@ -6,7 +6,6 @@ int main()
 
 
     string word = "?ate";
-
     for (char ch = 'a'; word != "mate"; ch++)
     {
         cout << word << endl;
