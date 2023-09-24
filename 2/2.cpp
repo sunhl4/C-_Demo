@@ -1,7 +1,6 @@
 //int 指定输出为整型
 /*
 My First C++ Code
-
 */
 #include <iostream>
 int main(void)

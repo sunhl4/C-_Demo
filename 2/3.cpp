@@ -8,7 +8,6 @@ int main(void)
     cout << "I have ";
     cout << carrots;
     cout << endl;
-
     carrots = carrots - 1;
     cout << "Crunch, Crunch, Now I have " << carrots << " carrots." <<endl;
     return 0;
