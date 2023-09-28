@@ -13,14 +13,17 @@ int main()
     //     ++ count;
     // }
     // std::cout << sum << std::endl;
-    int small, big;
+/*
+输出任意两个数中间的整数
+*/
+    int num1, num2;
     int num;
     std::cout << "Please enter two number (int)\n";
-    std::cin >> small >> big;
-    if (small <= big)
+    std::cin >> num1 >> num2;
+    if (num1 <= num2)
     {
-        num = small;
-        while(num < big)
+        num = num1;
+        while(num < num2)
         {
             ++ num;
             std::cout << num << std::endl;
@@ -28,8 +31,8 @@ int main()
     }
     else
     {
-        num = big;
-        while(num < small)
+        num = num2;
+        while(num < num1)
         {
             ++ num ;
             std::cout << num << std::endl;
