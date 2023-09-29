@@ -14,10 +14,11 @@
             else
             {
                 std::cout << val << " occurs" << count << " times.\n";
-                val = value; //exchange the  compared number 
+                val = value; //exchange the  compared number
+                count = 1; 
             }
         }
-        std::cout << val << " occurs" << count << " times.\n";
+        std::cout << val << " occurs " << count << " times.\n";
     }
     return 0;
  }
