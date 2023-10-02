@@ -13,6 +13,7 @@
             }
             else
             {
+                
                 std::cout << val << " occurs" << count << " times.\n";
                 val = value; //exchange the  compared number
                 count = 1; 
