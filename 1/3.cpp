@@ -11,6 +11,7 @@
             {
                 ++count;
             }
+            
             else
             {    
                 std::cout << val << " occurs" << count << " times.\n";
