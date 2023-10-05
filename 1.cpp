@@ -5,6 +5,7 @@ using namespace std;
 
 int main(void)
 {
+    
     int yams[3];
     yams[0] = 7;
     yams[1] = 8;
