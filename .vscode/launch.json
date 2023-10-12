@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/shl/C++/C-_Demo/C-_Demo",
-      "program": "/Users/shl/C++/C-_Demo/C-_Demo/build/Debug/outDebug"
+      "cwd": "/Users/shl/C++/C-_Demo-1",
+      "program": "/Users/shl/C++/C-_Demo-1/build/Debug/outDebug"
     }
   ]
 }
