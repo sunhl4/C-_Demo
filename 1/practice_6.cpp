@@ -1,6 +1,6 @@
 #include <iostream>
-using namespace std;
 
+using namespace std;
 int show_time(int hour, int minutes);
 int show_time(int hour, int minutes)；
 {
