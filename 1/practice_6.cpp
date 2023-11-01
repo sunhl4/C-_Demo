@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 int show_time(int hour, int minutes);
 int show_time(int hour, int minutes)；
@@ -9,6 +8,7 @@ int show_time(int hour, int minutes)；
 int main(void)
 {
     int hour;
+    
     int minutes;
     cout << "Enter the number of hours: ";
     cin >> hour;
