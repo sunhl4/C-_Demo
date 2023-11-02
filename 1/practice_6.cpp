@@ -5,10 +5,11 @@ int show_time(int hour, int minutes)；
 {
     cout << "Time: " << hour << ":" << minutes << endl;
 }
+
 int main(void)
 {
     int hour;
-    
+
     int minutes;
     cout << "Enter the number of hours: ";
     cin >> hour;
