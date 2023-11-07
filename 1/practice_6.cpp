@@ -3,6 +3,7 @@ using namespace std;
 int show_time(int hour, int minutes);
 int show_time(int hour, int minutes)；
 {
+    
     cout << "Time: " << hour << ":" << minutes << endl;
 }
 
